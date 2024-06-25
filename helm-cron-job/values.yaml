@@ -1,0 +1,2 @@
+accountDeletionJobName: "sample-cron-job"
+accountDeletionJobSchedule: "*/10 * * * *"
